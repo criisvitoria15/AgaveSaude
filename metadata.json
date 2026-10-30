@@ -1,0 +1,6 @@
+{
+  "name": "Agavê Saúde e Performance | Rio Claro",
+  "description": "Clínica multidisciplinar de medicina de precisão, cardiologia, emagrecimento, nutrição, performance e estética avançada em Rio Claro, SP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
